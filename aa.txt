@@ -1,1 +1,34 @@
-print('Hello')
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>My Hobby</title>
+		<meta charset="UTF-8">
+	</head>
+	<body>
+		<h1>Playing Guitar</h1>
+		<p>Playing guitar can be an extremely satisfying and rewarding hobby<br> and is an excellent outlet for your creativity<br/>and passion for music.</p>
+		<ul>
+			<li>Sastifying Hobby</li>
+			<li>Rewarding Hobby</li>
+			<li>
+				Types of Guitars
+				<ol type="1">
+					<li>Electric Guitar<a href="https://en.wikipedia.org/wiki/Electric_guitar">Electric</a></li>
+					<li>Classic Guitar<a href="https://en.wikipedia.org/wiki/Classical_guitar">Classic</a></li>
+					<li>Ukulele<a href="https://www.guitarcenter.com/Ukuleles.gc">Ukulele</a></li>
+				</ol>
+				
+			</li>
+		</ul>
+		<h3>Benefits of Playing Guitar</h3>
+		<dl>
+			<dt>Relaxation</dt>
+			<dd>Particularly for your mental Health</dd>
+			
+		</dl>
+		<p>
+			<blockquote>Playing the guitar is 1<sup>st</sup> popular <i>Hobbies</i> .<strong><b>Worldwide</b></strong>. Millions play the guitar as a leisure activity.</blockquote>
+		</p>
+		
+	</body>
+</html>
